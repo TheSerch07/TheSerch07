@@ -12,6 +12,10 @@
 - 💬 Preguntame sobre **JavaScript, React, Node y Mongoose**
 
 - 📫 Puedes contactarme en **jejog50@gmail.com**
+
+**Mis skills:**
+
+- JavaScript | React | Redux | NodeJS | postgreSQL | express | CSS | HTML | MongoDB | GIT Flow | Scrum
 <!--
 **TheSerch07/TheSerch07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
