@@ -1,5 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, soy Sergio 🤓</h1>
+<h3 align="center">Fullstack Developer 👨‍💻</h3>
 
+- 🌱 Actualmente estoy aprendiendo **Typescript, React Native y buenas practicas**
+
+- 👯 Me gustaria aportar mi conocimiento en proyectos de gran impacto por medio de ✨**JavaScript**✨
+
+- 👨‍💻 Mis proyectos están disponibles aquí en GitHub y en <a href="https://www.linkedin.com/in/Serch07">Linkedln<a>
+
+- 💬 Preguntame sobre **JavaScript, React, Node y Mongoose**
+
+- 📫 Puedes contactarme en **jejog50@gmail.com**
 <!--
 **TheSerch07/TheSerch07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
