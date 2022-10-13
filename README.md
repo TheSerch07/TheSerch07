@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy Sergio 🤓</h1>
 <h3 align="center">Fullstack Developer 👨‍💻</h3>
 
+**Sobre mi:**
+
 - 🌱 Actualmente estoy aprendiendo **Typescript, React Native y buenas practicas**
 
 - 👯 Me gustaria aportar mi conocimiento en proyectos de gran impacto por medio de ✨**JavaScript**✨
