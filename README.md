@@ -1,4 +1,6 @@
-# ¡Hola, soy Sergio! 👋🤓
+<h1 align="center">
+## ¡Hola, soy Sergio! 👋🤓
+</h1>
 
 ## Acerca de mí
 
