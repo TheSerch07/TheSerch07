@@ -1,5 +1,5 @@
 <h1 align="center">
-## ¡Hola, soy Sergio! 👋🤓
+¡Hola, soy Sergio! 👋🤓
 </h1>
 
 ## Acerca de mí
