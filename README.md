@@ -1,3 +1,35 @@
+# ¡Hola, soy Sergio García! 👋
+
+## Acerca de mí
+
+Soy un apasionado Full Stack Developer con más de un año y medio de experiencia en el mundo del desarrollo. Mi pasión por la tecnología me ha llevado a especializarme en una variedad de tecnologías y herramientas, lo que me permite crear aplicaciones web y móviles de alta calidad y rendimiento.
+
+## Mis Habilidades
+
+- **Lenguajes de Programación**: JavaScript, Typescript
+- **Frontend**: React, Redux
+- **Backend**: NodeJS
+- **Bases de Datos**: SQL, MongoDB
+- **CMS**: Wordpress
+- **Plataforma en la Nube**: Firebase
+
+## Lo que Hago
+
+- 🚀 Desarrollo aplicaciones web y móviles de alto rendimiento.
+- 📦 Utilizo tecnologías modernas para crear experiencias de usuario excepcionales.
+- 🌐 Diseño y desarrollo de sitios web dinámicos.
+- 📊 Creación de aplicaciones interactivas y atractivas.
+
+## ¡Hablemos!
+
+Si estás interesado en colaborar en proyectos emocionantes o necesitas ayuda en el desarrollo de tu próxima idea, no dudes en contactarme. Estoy siempre dispuesto a aprender, crecer y enfrentar nuevos desafíos.
+
+📫 Puedes contactarme a través de mi correo electrónico: [tuemail@example.com](mailto:tuemail@example.com)
+
+¡Gracias por visitar mi perfil de GitHub!
+
+
+<!--
 <h1 align="center">Hola 👋, soy Sergio 🤓</h1>
 <h3 align="center">Full Stack Developer 👨‍💻</h3>
 
@@ -16,7 +48,6 @@
 **Mis skills:**
 
 - JavaScript | React | Redux | NodeJS | postgreSQL | express | CSS | HTML | MongoDB | GIT Flow | Scrum
-<!--
 **TheSerch07/TheSerch07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
