@@ -1,4 +1,4 @@
-# ¡Hola, soy Sergio García! 👋
+# ¡Hola, soy Sergio! 👋🤓
 
 ## Acerca de mí
 
@@ -24,7 +24,7 @@ Soy un apasionado Full Stack Developer con más de un año y medio de experienci
 
 Si estás interesado en colaborar en proyectos emocionantes o necesitas ayuda en el desarrollo de tu próxima idea, no dudes en contactarme. Estoy siempre dispuesto a aprender, crecer y enfrentar nuevos desafíos.
 
-📫 Puedes contactarme a través de mi correo electrónico: [tuemail@example.com](mailto:tuemail@example.com)
+📫 Puedes contactarme a través de mi correo electrónico: [jejog50@gmail.com](mailto:jejog50@gmail.com)
 
 ¡Gracias por visitar mi perfil de GitHub!
 
