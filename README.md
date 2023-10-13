@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 
-Soy un **Full Stack Developer** apasionado de la tecnología con más de un año y medio de experiencia en el mundo del desarrollo. Mi pasión por la tecnología me ha llevado a especializarme en una variedad de tecnologías y herramientas, lo que me permite crear aplicaciones web y móviles de alta calidad y rendimiento. 👨‍💻
+Soy un **Full Stack Developer** apasionado de la tecnología con más de un año y medio de experiencia en el mundo del desarrollo, he trabajado en proyectos de alto impacto en la industria de la inteligencia artificial y el diseño. Mi pasión por la tecnología me ha llevado a especializarme en una variedad de tecnologías y herramientas, lo que me permite crear aplicaciones web y móviles de alta calidad y rendimiento. 👨‍💻
 
 ## Mis Habilidades
 
