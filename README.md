@@ -2,11 +2,11 @@
 ¡Hola, soy Sergio! 👋🤓
 </h1>
 
-## Acerca de mí
+## Acerca de mí 📸
 
 Soy un **Full Stack Developer** apasionado de la tecnología con más de un año y medio de experiencia en el mundo del desarrollo, tengo experiencia en **Animación 3D** y he trabajado en proyectos de alto impacto en la industria de la inteligencia artificial y el diseño. Mi pasión por la tecnología me ha llevado a especializarme en una variedad de tecnologías y herramientas, lo que me permite crear aplicaciones web y móviles de alta calidad y rendimiento. 👨‍💻
 
-## Mis Habilidades
+## Mis Habilidades 💪
 
 - **Lenguajes de Programación**:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -32,14 +32,14 @@ Soy un **Full Stack Developer** apasionado de la tecnología con más de un año
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustator-333333?style=flat&logo=adobeillustrator)
 
-## Lo que Hago
+## Lo que Hago ⚒
 
 - 🚀 Desarrollo aplicaciones web y móviles de alto rendimiento.
 - 📦 Utilizo tecnologías modernas para crear experiencias de usuario excepcionales.
 - 🌐 Diseño y desarrollo de sitios web dinámicos.
 - 📊 Creación de aplicaciones interactivas y atractivas.
 
-## ¡Hablemos!
+## ¡Hablemos! 📱
 
 Si estás interesado en colaborar en proyectos emocionantes o necesitas ayuda en el desarrollo de tu próxima idea, no dudes en contactarme. Estoy siempre dispuesto a aprender, crecer y enfrentar nuevos desafíos.
 
