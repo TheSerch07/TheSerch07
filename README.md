@@ -8,7 +8,9 @@ Soy un **Full Stack Developer** apasionado de la tecnología con más de un año
 
 ## Mis Habilidades
 
-- **Lenguajes de Programación**: JavaScript, Typescript
+- **Lenguajes de Programación**:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 - **Frontend**: React, Redux
 - **Backend**: NodeJS
 - **Bases de Datos**: SQL, MongoDB
