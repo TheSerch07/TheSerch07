@@ -43,9 +43,9 @@ Soy un **Full Stack Developer** apasionado de la tecnología con más de un año
 
 Si estás interesado en colaborar en proyectos emocionantes o necesitas ayuda en el desarrollo de tu próxima idea, no dudes en contactarme. Estoy siempre dispuesto a aprender, crecer y enfrentar nuevos desafíos.
 
-📫 Puedes contactarme a través de mi correo electrónico: <a href="mailto:jejog50@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jejog50@gmail.com-blue?style=flat-square&logo=gmail"></a>
+📫 Puedes contactarme a través de mi correo electrónico: <a href="mailto:jejog50@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-jejog50@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-¡Gracias por visitar mi perfil de GitHub!
+**¡Gracias por visitar mi perfil de GitHub!**
 
 
 <!--
