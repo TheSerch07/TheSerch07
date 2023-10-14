@@ -30,7 +30,7 @@ Soy un **Full Stack Developer** apasionado de la tecnología con más de un año
   ![Maya](https://img.shields.io/badge/-Maya-333333?style=flat&logo=maya)
   ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe%20premiere%20pro)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop)
-  ![Illustrator](https://img.shields.io.badge/-Illustrator-333333?style=flat&logo=adobeillustrator)
+  ![Illustrator](https://img.shields.io/badge/-Illustator-333333?style=flat&logo=adobeillustrator)
 
 ## Lo que Hago
 
