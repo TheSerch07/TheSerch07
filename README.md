@@ -18,7 +18,7 @@ Soy un **Full Stack Developer** apasionado de la tecnología con más de un año
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 - **Bases de Datos**:
-  ![SQL](https://img.shields.io/badge/-Sql-333333?style=flat&logo=sql)
+  ![PostgreSQL](https://img.shields.io/badge/-Sql-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - **CMS**:
   ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
@@ -27,7 +27,7 @@ Soy un **Full Stack Developer** apasionado de la tecnología con más de un año
   ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-333333?style=flat&logo=googlecloud)
 - **Diseño y creatividad**:
   ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
-  ![Maya](https://img.shields.io/badge/-Maya-333333?style=flat&logo=maya)
+  ![Maya](https://img.shields.io/badge/-Atodesk%20Maya-333333?style=flat&logo=autodesk)
   ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe%20premiere%20pro)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustator-333333?style=flat&logo=adobeillustrator)
