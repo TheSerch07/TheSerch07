@@ -11,11 +11,26 @@ Soy un **Full Stack Developer** apasionado de la tecnología con más de un año
 - **Lenguajes de Programación**:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-- **Frontend**: React, Redux
-- **Backend**: NodeJS
-- **Bases de Datos**: SQL, MongoDB
-- **CMS**: Wordpress
-- **Plataforma en la Nube**: Firebase
+- **Frontend**:
+- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+- **Backend**:
+- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+- **Bases de Datos**:
+- ![SQL](https://img.shields.io/badge/-Sql-333333?style=flat&logo=sql)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- **CMS**:
+- ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
+- **Plataforma en la Nube**:
+- ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+- ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-333333?style=flat&logo=googlecloud)
+- **Diseño y creatividad**:
+- ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+- ![Maya](https://img.shields.io/badge/-Maya-333333?style=flat&logo=maya)
+- ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe%20premiere%20pro)
+- ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop)
+- ![Illustrator](https://img.shields.io.badge/-Illustrator-333333?style=flat&logo=adobe%20illustrator)
 
 ## Lo que Hago
 
