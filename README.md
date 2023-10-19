@@ -54,6 +54,7 @@ Si estás interesado en colaborar en proyectos emocionantes o necesitas ayuda en
 
 **Sobre mi:**
 
+
 - 🌱 Actualmente estoy aprendiendo **Typescript, React Native y buenas practicas**
 
 - 👯 Me gustaria aportar mi conocimiento en proyectos de gran impacto por medio de ✨**JavaScript**✨
